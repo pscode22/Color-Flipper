@@ -1,2 +1,2 @@
 # Color-Flipper
-Built with :- HTML, CSS
+Built with :- HTML, CSS, JS
