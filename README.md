@@ -1,2 +1,2 @@
 # Color-Flipper
-Change colors with a click
+Built with :- HTML, CSS
